@@ -1,0 +1,25 @@
+{
+  "name": "sequelize-constants",
+  "version": "1.0.0",
+  "description": "Constants plugin for Sequelize",
+  "main": "index.js",
+  "engines": {
+    "node":">=4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qwantix/sequelize-constants.git"
+  },
+  "bugs": {
+    "url": "https://github.com/qwantix/sequelize-constants/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sequelize",
+    "plugin"
+  ],
+  "author": "Brice Dauzats",
+  "license": "MIT"
+}

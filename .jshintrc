@@ -1,0 +1,7 @@
+{
+  "strict": true,
+  "forin": false,
+  "indent": 2,
+  "node": true,
+  "esnext": true
+}
